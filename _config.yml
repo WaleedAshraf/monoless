@@ -1,0 +1,23 @@
+# site settings
+title: monoless.io
+email: waleed@monoless.io
+description: guide to migrate from monlethic to serverless and beyond
+baseurl: # the subpath of your site, e.g. /blog
+url: https://monoless.io
+author: Waleed Ashraf
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+
+# social settings
+facebook_url: https://www.facebook.com/monolessio/
+github_url: https://github.com/WaleedAshraf/monoless
+instagram_url: https://www.instagram.com/monolessio/
+linkedin_url: https://www.linkedin.com/company/monolessio
+twitter_url: https://twitter.com/monolessio
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
