@@ -1,7 +1,7 @@
 # site settings
 title: monoless.io
 email: waleed@monoless.io
-description: guide to migrate from monlethic to serverless and beyond
+description: guide to migrate from monolithic to serverless and beyond
 baseurl: # the subpath of your site, e.g. /blog
 url: https://monoless.io
 author: Waleed Ashraf
